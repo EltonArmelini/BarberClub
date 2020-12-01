@@ -1,0 +1,17 @@
+.contenedor-botones{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+html{
+scroll-behavior: smooth;
+}
+
+.contenedores-iconos{
+    display: inline-block;
+    margin-right: 7px ;
+    font-size: 20px;
+}
+.ubicacion{
+    margin-top: 90px;
+}
